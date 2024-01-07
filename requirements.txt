@@ -14,6 +14,3 @@ pandas == 1.5.2
 
 # C:\Users\Yunhyong\OneDrive - University of Glasgow\2023_AI_for_the_Arts\B\Project\ai-course\Machine-Learning-by-Example-from-Start-to-End-V2.ipynb: 5,51,86,109,156,166,170,175,181,199,284
 scikit_learn == 1.2.0
-
-# C:\Users\Yunhyong\OneDrive - University of Glasgow\2023_AI_for_the_Arts\B\Project\ai-course\Machine-Learning-by-Example-from-Start-to-End-V2.ipynb: 204,221
-tensorflow_intel == 2.11.0
